@@ -1,5 +1,5 @@
 # Summary
 
-- [Intro](./chapter_1.md)
-- [yyyy-mm-dd](./chapter_1.md)
+- [Info](./chapter_1.md)
+<!-- - [yyyy-mm-dd](./chapter_1.md) -->
 
