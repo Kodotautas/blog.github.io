@@ -29,3 +29,8 @@ Informacija ką reikia pasiimti ir kokios Patrulio atsakomybės.
 ### Patruliai
 - Maudimke
 - Šlepkes
+
+
+<div align="left">
+  <img src="./picture/tube.jpg" alt="CPU utilization" width="500">
+</div>
