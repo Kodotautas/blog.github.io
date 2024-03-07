@@ -25,3 +25,7 @@ Informacija ką reikia pasiimti ir kokios Patrulio atsakomybės.
 - Stalo žaidimai
 - Rigas Balzams
 - 
+
+### Patruliai
+- Maudimke
+- Šlepkes
