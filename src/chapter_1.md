@@ -24,7 +24,6 @@ Informacija ką reikia pasiimti ir kokios Patrulio atsakomybės.
 - Anglys
 - Stalo žaidimai
 - Rigas Balzams
-- 
 
 ### Patruliai
 - Maudimke
