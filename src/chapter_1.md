@@ -22,6 +22,7 @@ Informacija ką reikia pasiimti ir kokios Patrulio atsakomybės.
 ### Vytux
 - Užkandžiai (kooperacija su Karoliu)
 - Anglys
+- Iešmai, grotelės (jei reiktų)
 - Stalo žaidimai
 - Rigas Balzams
 
