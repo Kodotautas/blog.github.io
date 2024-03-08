@@ -25,6 +25,7 @@ Informacija ką reikia pasiimti ir kokios Patrulio atsakomybės.
 - Iešmai, grotelės (jei reiktų)
 - Stalo žaidimai
 - Rigas Balzams
+- Miegmaišis
 
 ### Patruliai
 - Maudimke
